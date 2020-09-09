@@ -26,5 +26,5 @@ vignettes/*.pdf
 rsconnect/
 .DS_Store
 
-Ipython
-*.ipynb
+#Ipython
+.ipynb_checkpoints
